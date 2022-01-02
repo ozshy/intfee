@@ -1,6 +1,6 @@
 # intfee
 Online appendix for a paper entitled: 
-Interchange fees with cashless stores, cashless consumers, cash-only consumers
+"Interchange fees with cashless stores, cashless consumers, cash-only consumers"
 ------------------
 The following files are available for downloading
 1. intfee_appendix.pdf provides detailed algebraic derivations of ALL equations in the papers. 
